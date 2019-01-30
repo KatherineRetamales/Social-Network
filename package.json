@@ -1,0 +1,14 @@
+{
+  "name": "social-network",
+  "version": "0.0.1",
+  "description": "Red social para mujeres deportivas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Martha Lizarazo, Paulina Vera, Katherine Retamales",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
